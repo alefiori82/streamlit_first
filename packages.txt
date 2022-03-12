@@ -1,4 +1,0 @@
-pandas
-folium
-geopandas
-folium_static
