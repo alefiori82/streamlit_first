@@ -1,4 +1,4 @@
 pandas
 folium
 geopandas
-folium_static
+streamlit_folium
